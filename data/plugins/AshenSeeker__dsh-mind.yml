@@ -1,5 +1,5 @@
-url: https://github.com/wld12314/dsh-mind
-name: wld12314/dsh-mind
+url: https://github.com/AshenSeeker/dsh-mind
+name: AshenSeeker/dsh-mind
 category: identity
 description:
   en: 'Adds a mood system to DeepSeek Harness — 33 named moods judged every 3-6 hours with small per-message adjustments, plus cross-session memory, an aesthetic taste library and an encrypted diary. The mood, memory, taste and diary tools are all callable by the model, and each of the five modules has its own switch. The diary is written only by the model; no summary template is generated.'

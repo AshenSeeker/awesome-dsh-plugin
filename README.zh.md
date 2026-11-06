@@ -5806,7 +5806,7 @@ dsh plugin --profile web add dshmarket
 - [wingsky-1/dsh-plugin-hub#packages/dsh-verify-isolated](https://github.com/wingsky-1/dsh-plugin-hub/tree/main/packages/dsh-verify-isolated) — 面向 DSH 插件开发的隔离环境浏览器验证 skill：一条命令拉起临时 DSH_HOME、独立 `verify_<随机>` profile、独立端口与独立浏览器实例，退出自动清理，不污染正在使用的 profile；自带零依赖 raw-CDP 浏览器驱动（快照 / 点击 / 截图 / 求值）与可选隔离审计。
 - [Wisdoverse/dsh-skills-manager-plugin](https://github.com/Wisdoverse/dsh-skills-manager-plugin) — 根据提示词自动激活已安装的 Skill，应用 Skill 声明的生命周期 Hook 与工具策略，并通过设置页或 skill_manager 工具管理 GitHub 托管的 Skill。
 - [wjvalue/dsh-answer-me-with-html](https://github.com/wjvalue/dsh-answer-me-with-html) — 把复杂问题回答成一页可视化 HTML：模型只写简短的 Markdown 草稿，随包附带的零依赖 `am` 命令行负责排版、配色与图表坐标。以上游 answer-me-with-html 技能原样内置，是纯技能的 DSH bundle，不含 Host 代码。
-- [wld12314/dsh-group-meeting-slides](https://github.com/wld12314/dsh-group-meeting-slides) — 把英文论文 PDF 做成中文组会汇报 PPT，图表用原文真实像素。
+- [AshenSeeker/dsh-group-meeting-slides](https://github.com/AshenSeeker/dsh-group-meeting-slides) — 把英文论文 PDF 做成中文组会汇报 PPT，图表用原文真实像素。
 - [WLX2007/DSH-SkillsHub](https://github.com/WLX2007/DSH-SkillsHub) — DSH Web GUI 的技能中心面板——搜索网络技能市场（SkillHub、skills.sh、GitHub），一键安装技能到用户或项目根，并管理本地技能（启停、创建、编辑、删除、预览）。
 - [wmengxiang/dsh-any-skills](https://github.com/wmengxiang/dsh-any-skills) — 从 Codex / Claude Code / OpenCode / GitHub / npm 导入并安装技能到 ~/.dsh/skills，模型自动读取、/技能名 立即可用；对话框旁 ⚡ 一键插入调用，设置页支持按来源/单技能导入、路径与数量展示、卸载与一键恢复。
 - [WODE25500/dsh-google-skills](https://github.com/WODE25500/dsh-google-skills) — Google 的 Agent Skills(google/skills)for DeepSeek Harness：128 个打包的 SKILL.md 技能，覆盖 Google Cloud、BigQuery、GKE、Gemini、Firebase、广告与分析。
